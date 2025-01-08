@@ -6,7 +6,7 @@ const word2 = generate();
 
 console.log(`The ${chalk.greenBright(word1)} is ${chalk.redBright(word2)}.`);
 
-export const sum = (a, b) => a + b;
+export cnst sum = (a, b) => a + b;
 
 // ESLint errors
 /*
